@@ -1,2 +1,6 @@
-🔗 Dataset Link:
-https://www.kaggle.com/datasets/camnugent/california-housing-prices
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
