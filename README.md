@@ -1,15 +1,20 @@
 # California House Price Prediction
 
-## 📌 Project Overview
+##  Project Overview
 
-This project predicts the **median house price in California** using machine learning techniques.
+This project predicts the **median house price in California** using Machine Learning techniques.
 The model is trained on housing dataset features such as location, population, number of rooms, and median income.
 
-The goal of this project is to build a regression model that can accurately estimate house prices based on given input features.
+The objective of this project is to build a regression model that can accurately estimate house prices based on given input features.
 
 ---
 
-## 📊 Dataset
+##  Dataset
+
+This project uses the **California Housing Dataset**.
+
+🔗 Dataset Link:
+https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 The dataset contains information about housing in California districts.
 
@@ -25,13 +30,13 @@ The dataset contains information about housing in California districts.
 * Median Income
 * Ocean Proximity (Categorical Feature)
 
-Target Variable:
+**Target Variable**
 
-* **Median House Value**
+* Median House Value
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 * Python
 * NumPy
@@ -41,43 +46,43 @@ Target Variable:
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
-The model used in this project:
+Model used in this project:
 
 * Random Forest Regressor
 
-Steps involved:
+### Steps Involved
 
-1. Data preprocessing
-2. Handling categorical data using One-Hot Encoding
+1. Data Preprocessing
+2. Handling Categorical Data using One-Hot Encoding
 3. Train-Test Split
 4. Model Training
 5. Model Prediction
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-1. Clone the repository
+1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/california-house-price-prediction.git
+git clone https://github.com/Mahakchoudhari/California_House_price_prediction_project.git
 ```
 
-2. Install dependencies
+2️⃣ Install dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-3. Run the notebook or Python script
+3️⃣ Run the notebook or Python script
 
 ---
 
-## 📈 Example Prediction
+##  Example Prediction
 
-Input:
+Example Input:
 
 * Median Income: 8.3252
 * Total Rooms: 880
@@ -85,24 +90,24 @@ Input:
 
 Output:
 
-Predicted House Price: **$452,600 (approx.)**
+**Predicted House Price: ~$452,600**
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
-california-house-price-prediction
+California_House_price_prediction_project
 │
-├── dataset.csv
+├── housing.csv
 ├── house_prediction.ipynb
-├── model_training.py
-├── README.md
+├── requirements.txt
+└── README.md
 ```
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
-Mehak Choudhari
+**Mehak Choudhari**
 Machine Learning Student
