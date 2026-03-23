@@ -109,5 +109,5 @@ California_House_price_prediction_project
 
 ##  Author
 
-**Mehak Choudhari**
+**Mahak Choudhari**
 Machine Learning Student
